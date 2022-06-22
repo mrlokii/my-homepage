@@ -72,7 +72,7 @@ const Home = () => (
           Hobbies
         </Heading>
         <Paragraph>
-        Photography, Reading Manga, Badminton, Watching Anime{' '}
+        Photography, Reading Manga, Badminton, Watching Anime {' '}
     
         </Paragraph>
 
