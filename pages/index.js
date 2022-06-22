@@ -1,6 +1,5 @@
-import NextLink from 'next/link'
+
 import {
-  Link,
   Container,
   Heading,
   Box,
